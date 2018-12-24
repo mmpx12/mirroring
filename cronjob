@@ -1,0 +1,2 @@
+46      *       *       *       *       /bin/bash /root/mirroring/arch_sync.sh >> /var/log/arch_mirroring.log &&  ln -s /var/lib/nginx/html/archmirror/ /var/lib/nginx/html/archmirror/archlinux
+12      *       *       *       *       /root/mirroring/alpine_sync.sh
